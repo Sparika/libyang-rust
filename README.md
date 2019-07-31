@@ -7,4 +7,4 @@ The example application simply opens and parses a YANG file.
 
 # Installation
 Make sure that rustc and cargo are installed, then run `cargo build`.
-Once the project is build it can be started with `cargo run [yang_module_file]`
+Once the project has finished building, it can be started with `cargo run [yang_module_file]`
