@@ -8,3 +8,4 @@ The example application simply opens and parses a YANG file.
 # Installation
 Make sure that rustc and cargo are installed, then run `cargo build`.
 Once the project has finished building, it can be started with `cargo run [yang_module_file]`
+An asciinema example describing installation and usage of libyang-rust is available at https://asciinema.org/a/260364.
